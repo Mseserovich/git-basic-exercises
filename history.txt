@@ -1,0 +1,121 @@
+    1  man ls
+    2  man man
+    3  ls
+    4  clear
+    5  pwd
+    6  cd desktop
+    7  cd Spykos/
+    8  la
+    9  ls
+   10  touch server.js home.html register.html
+   11  mkdir views public
+   12  ls -a
+   13  cd MseseChessSite/
+   14  ls
+   15  rm -r views public/
+   16  rm app1.js 
+   17  rm package.json package-lock.json README.md server.js 
+   18  ls -a
+   19  cd ..
+   20  ls
+   21  rm -rf MseseChessSite/
+   22  ls
+   23  cd ..
+   24  ls
+   25  git clone https://github.com/Mseserovich/freeNode.git Mseserovich
+   26  cd desktop
+   27  cd Spykos/
+   28  ls
+   29  cd views/
+   30  ls
+   31  cd pages/
+   32  ls
+   33  rm index.html home.html menu.html 
+   34  cp register.html register.ejs
+   35  ls
+   36  cp login.html login.ejs
+   37  ls
+   38  cd ..
+   39  ls
+   40  cd pages/
+   41  ls
+   42  cd .
+   43  cd ..
+   44  cd ..
+   45  ls
+   46  cd public
+   47  ls
+   48  cd assets/
+   49  ls
+   50  cd css
+   51  ls
+   52  touch progress.css
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd assets/
+   58  ls
+   59  cd ..
+   60  cd ..
+   61  ls
+   62  cd views/
+   63  ls
+   64  cd pages/
+   65  ls
+   66  cp index.html profile.ejs
+   67  mongod
+   68  clear
+   69  mongod --version
+   70  clear
+   71  cd 
+   72  cd Desktop/
+   73  git clone https://github.com/Umuzi-org/Tshepo-Tshabalala-288-git-basic-exercises-.git
+   74  cd Tshepo-Tshabalala-288-git-basic-exercises-/
+   75  ls -a
+   76  git remote -v
+   77  clear
+   78  pwd
+   79  ls -a
+   80  git log
+   81  ls
+   82  cat README.md 
+   83  git log
+   84  mkdir git-basic-exercises
+   85  cd git-basic-exercises/
+   86  ls -a
+   87  cd ..
+   88  ls
+   89  rm git-basic-exercises/
+   90  rmdir git-basic-exercises/
+   91  vim README.md 
+   92  git commit -a -m "initial commit"
+   93  git push -u origin master
+   94  git push -u origin master
+   95  git push
+   96  ls
+   97  git log
+   98  git commit -a -m "second commit"
+   99  git log
+  100  vim README.md 
+  101  git commit -a -m "second commit"
+  102  git log
+  103  vim README.md 
+  104  git commit -a -m "third commit"
+  105  git checkout -b milkshake-flavours
+  106  vim milkshakes.md
+  107  git status
+  108  git commit -a -m "added initial flavours"
+  109  git status
+  110  git commit -am "added initial flavours"
+  111  git commit -a -m "added initial flavours"
+  112  git status
+  113  git add milkshakes.md 
+  114  git commit -m "added initial flavours"
+  115  git log
+  116  git log
+  117  git checkout master
+  118  ls
+  119  git checkout -b history
+  120  git log
+  121  history > history.txt
